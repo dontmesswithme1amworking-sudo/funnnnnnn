@@ -11,13 +11,14 @@
  */
 
 :root {
-  /* colors */
-  --background-color: white;
-  --light-color: #f8f8f8;
-  --dark-color: #505050;
-  --text-color: #131313;
-  --link-color: #3b63fb;
-  --link-hover-color: #1d3ecf;
+  --background-color: #faf7f2;
+  --light-color: #f0e9df;
+  --dark-color: #e3d9cb;
+  --text-color: #2b1d14;
+  --link-color: #2b1d14;
+  --link-hover-color: #8a5a2b;
+  --nav-height: 76px;
+}
 
   /* fonts */
   --body-font-family: roboto, roboto-fallback, sans-serif;
